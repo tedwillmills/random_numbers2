@@ -9,6 +9,6 @@
 ## Contents
 #### - figures/
 #### - notebooks/
-####     random_numbers.ipynb
-####     monte_carlo_simulation.ipynb
+####       random_numbers.ipynb
+####       monte_carlo_simulation.ipynb
 #### - scripts/
