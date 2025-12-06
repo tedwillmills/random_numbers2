@@ -17,6 +17,12 @@ This repository takes content covered in my Computationl Tools lectures and expa
 ![Monte Carlo Distribution](figures/monte_carlo_histogram.png)
 The histogram shows the distribution of total sums from the Monte Carlo simulation of a biased die, which follows a normal distribution.
 
+![Monte Carlo Distribution](figures/exponential_PDFs.png)
+The graph shows the PDF for the exponential distribution for different values of λ using inverse transform sampling.
+
+![Monte Carlo Distribution](figures/exponential_PDF_and_histogram.png)
+The graph shows the comparison between the PDF and histogram for the exponential distribution at a fixed λ value.
+
 ## Lessons Learnt
 I have developed my understanding in the following areas:
 - creating and improving functions
