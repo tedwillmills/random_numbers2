@@ -42,7 +42,7 @@ The graph shows that the PDF generated via inverse transform sampling accurately
 The graph shows that there is a clear comparison between the PDF and histogram for the exponential distribution at a fixed λ value, confirming the reliability of the sampling method.
 
 ## Technical Skills
-I have demonstrated and improved my competency in the following skills:
+I have demonstrated and improved my competency in the following skills in writing these scripts:
 - pseudo-random number generators using NumPy
 - numerical simulations (Monte Carlo)
 - inverse transform sampling
