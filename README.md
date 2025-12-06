@@ -30,12 +30,15 @@ scripts/
 ## Example Outputs
 
 ![Monte Carlo Distribution](figures/monte_carlo_histogram.png)
+
 The histogram shows that the total sums from the Monte Carlo simulation of a biased die converges to an approximately normal distribution, demonstrating the Central Limit Theroem even for non-uniform underlying probabilities.
 
 ![Monte Carlo Distribution](figures/exponential_PDFs.png)
+
 The graph shows that the PDF generated via inverse transform sampling accurately matches the expected exponential distribution for different values of λ.
 
 ![Monte Carlo Distribution](figures/exponential_PDF_and_histogram.png)
+
 The graph shows that there is a clear comparison between the PDF and histogram for the exponential distribution at a fixed λ value, confirming the reliability of the sampling method.
 
 ## Technical Skills
