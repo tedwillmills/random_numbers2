@@ -1,30 +1,47 @@
 # Computational Tools
 
-Ongoing Work on Random Numbers and Monte Carlo simulations (PRNGs, inverse transform sampling and data handling).
+A collection of Python simulations and numerical methods as part of my ongoing work on random numbers and Monte Carlo simulations, including PRNGs, inverse transform sampling and data analysis.  
 
 ## Purpose
-This repository takes content covered in my Computationl Tools lectures and expands upon it, through various projects as I attempt to learn code beyond the syllabus. Doing this not only helps to improve my fundamentals in Python and teach me new tools, but also gives me the tools to complete my own, more complex engineering projects alongside my degree.
+This repository expands upon content covered in my Computationl Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation.Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree. and 
 
 ## Contents
-- figures/
-- notebooks/
-    - monte_carlo_simulation.ipynb - simulation of a biased six-sided die, histogram plot and comparison with normal distribution (CLT)
-    - random_numbers.ipynb - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set, scatter and histogram plotting; inverse transform sampling for exponential distribution, PDF and quantile function plotting for varying λ
-- scripts/
+figures/
+- monte_carlo_histogram.png
+    - 
+notebooks/
+- monte_carlo_simulation.ipynb
+    - simulation of a biased six-sided die (1000 x 2000 samples)
+    - histogram plot and comparison with normal distribution to demonstrate CLT
+    - statistical analysis (mean, median, std)
+- random_numbers.ipynb
+    - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set
+    - scatter and histogram plotting
+    - inverse transform sampling for exponential distribution
+    - PDF and quantile function plotting for varying λ
+scripts/
 
 ## Example Outputs
 
 ![Monte Carlo Distribution](figures/monte_carlo_histogram.png)
-The histogram shows the distribution of total sums from the Monte Carlo simulation of a biased die, which follows a normal distribution.
+The histogram shows that the total sums from the Monte Carlo simulation of a biased die converges to an approximately normal distribution, demonstrating the Central Limit Theroem even for non-uniform underlying probabilities.
 
 ![Monte Carlo Distribution](figures/exponential_PDFs.png)
-The graph shows the PDF for the exponential distribution for different values of λ using inverse transform sampling.
+The graph shows that the PDF generated via inverse transform sampling accurately matches the expected exponential distribution for different values of λ.
 
 ![Monte Carlo Distribution](figures/exponential_PDF_and_histogram.png)
-The graph shows the comparison between the PDF and histogram for the exponential distribution at a fixed λ value.
+The graph shows that there is a clear comparison between the PDF and histogram for the exponential distribution at a fixed λ value, confirming the reliability of the sampling method.
+
+## Technical Skills
+I have demonstrated and improved my competency in the following skills:
+- pseudo-random number generators using NumPy
+- numerical simulations (Monte Carlo)
+- inverse transform sampling
+- data visualisation through Matplotlib
+- statistical analysis (CLT, non-uniform distributions)
 
 ## Lessons Learnt
-I have developed my understanding in the following areas:
+Through this repository, I have developed my understanding in the following areas:
 - creating and improving functions
 - using for loops to iterate processes
 - plotting curves, histograms and scatter graphs for data analysis
