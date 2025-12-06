@@ -7,8 +7,12 @@ This repository expands upon content covered in my Computationl Tools lectures t
 
 ## Contents
 figures/
+- exponential_PDF_and_histogram.png
+- exponential_PDFs.png
+- exponential_inverse_CDFs.png
 - monte_carlo_histogram.png
-    - 
+- numerical_recipes_LCG_histogram.png
+- numerical_recipes_LCG_scatter.png
 notebooks/
 - monte_carlo_simulation.ipynb
     - simulation of a biased six-sided die (1000 x 2000 samples)
