@@ -15,7 +15,7 @@ This repository takes content covered in my Computationl Tools lectures and expa
 ## Example Outputs
 
 ![Monte Carlo Distribution](figures/monte_carlo_histogram.png)
-The histogram shows the distribution of total sums from the Monte Carlo simulation of a biased die. Due to the Central Limit Theorem (CLT), this follows a normal distribution, shown by the overlaid normal curve.
+The histogram shows the distribution of total sums from the Monte Carlo simulation of a biased die, which follows a normal distribution.
 
 ## Lessons Learnt
 I have developed my understanding in the following areas:
@@ -24,7 +24,7 @@ I have developed my understanding in the following areas:
 - plotting curves, histograms and scatter graphs for data analysis
 - using libraries like NumPy and Matplotlib
  
-It has also been interesting to use and work upon statistical principles that I studied in Further Maths A Level in Python. Concepts like the Central Limit Theorem, PDFs, CDFs, uniform and non-uniform distributions (binomial, normal, exponential) and inverse functions are all areas that I have learnt about, but actually putting them into practice and implementing them into Python scripts has been very rewarding.
+It has also been interesting to use and work upon statistical principles that I studied in Further Maths A Level in Python. Concepts like the Central Limit Theorem (CLT), PDFs, CDFs, uniform and non-uniform distributions (binomial, normal, exponential) and inverse functions are all areas that I have learnt about, but actually putting them into practice and implementing them into Python scripts has been very rewarding.
 
 I have also grown to appreciate the shear power of Python in running simulations and lengthy scripts, something I look forward to harnessing in more projects going forwards.
 
