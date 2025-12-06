@@ -13,6 +13,7 @@ figures/
 - monte_carlo_histogram.png
 - numerical_recipes_LCG_histogram.png
 - numerical_recipes_LCG_scatter.png
+
 notebooks/
 - monte_carlo_simulation.ipynb
     - simulation of a biased six-sided die (1000 x 2000 samples)
@@ -23,6 +24,7 @@ notebooks/
     - scatter and histogram plotting
     - inverse transform sampling for exponential distribution
     - PDF and quantile function plotting for varying λ
+
 scripts/
 
 ## Example Outputs
