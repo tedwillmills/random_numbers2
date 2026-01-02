@@ -25,7 +25,7 @@ notebooks/
     - Inverse transform sampling for exponential distribution
     - PDF and quantile function plotting for varying λ
     - Rejection sampling for normal distribution
-    - Histogra and scatter plots for accepted-rejected samples
+    - Histogram and scatter plots for accepted-rejected samples
 - monte_carlo_simulation_2.ipynb
     - breg
 
