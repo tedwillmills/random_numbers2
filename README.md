@@ -26,8 +26,12 @@ notebooks/
     - PDF and quantile function plotting for varying λ
     - Rejection sampling for normal distribution
     - Histogram and scatter plots for accepted-rejected samples
-- monte_carlo_simulation_2.ipynb
-    - breg
+- travel_speed_monte_carlo.ipynb
+    - Monte Carlo simulation of highway travel speed under stochastic traffic conditions
+    - Histogram visualisation of simulated speeds
+    - Maximum Likelihood Estimation (MLE) for normal, exponential and beta distributions
+    - Goodness-of-fit assessment using Kolmogorov–Smirnov tests
+    - Sensitivity analysis via Pearson correlation and scatter plots
 
 scripts/
 
