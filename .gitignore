@@ -1,2 +1,4 @@
 # macOS system files
 .DS_Store
+.DS_Store
+notebooks/.DS_Store
