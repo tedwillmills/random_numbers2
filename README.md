@@ -32,6 +32,14 @@ notebooks/
     - Maximum Likelihood Estimation (MLE) for normal, exponential and beta distributions
     - Goodness-of-fit assessment using Kolmogorov–Smirnov tests
     - Sensitivity analysis via Pearson correlation and scatter plots
+- optimisation_1.ipynb
+    - Introduction to optimisation theory and problem formulation
+    - Analytical optimisation via symbolic differentiation and root finding
+    - Iterative optimisation methods (Gradient Descent and Newton–Raphson)
+    - Comparison with SciPy optimisation routines (CG, Newton-CG, BFGS, L-BFGS-B, TNC, SLSQP)
+    - Constrained vs unconstrained optimisation
+    - Numerical comparison of convergence behaviour and iteration counts
+    - Visualisation of objective function and identified minimum
 
 scripts/
 
