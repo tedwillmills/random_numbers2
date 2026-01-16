@@ -67,6 +67,10 @@ I have demonstrated and improved my competency in the following skills in writin
 - rejection sampling
 - parameter modelling (MLE)
 - goodness of fit tests (K-S)
+- analytical optimisation (SymPy)
+- gradient-based optimisation methods
+- Newton and quasi-Newton methods (constrained and unconstrained)
+- use of scipy.optimize for efficient numerical solvers
 
 ## Lessons Learnt
 Through this repository, I have developed my understanding in the following areas:
