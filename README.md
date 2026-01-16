@@ -77,7 +77,7 @@ Through this repository, I have developed my understanding in the following area
 - creating and improving functions
 - using for loops to iterate processes
 - plotting curves, histograms and scatter graphs for data analysis
-- using libraries like NumPy and Matplotlib
+- using libraries like NumPy, SciPy Matplotlib
  
 It has also been interesting to use and work upon statistical principles that I studied in Further Maths A Level in Python. Concepts like the Central Limit Theorem (CLT), PDFs, CDFs, uniform and non-uniform distributions (binomial, normal, exponential) and inverse functions are all areas that I have learnt about, but actually putting them into practice and implementing them into Python scripts has been very rewarding.
 
