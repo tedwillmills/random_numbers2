@@ -15,6 +15,7 @@ figures/
 - numerical_recipes_LCG_scatter.png
 
 notebooks/
+Monte Carlo and Random Numbers:
 - monte_carlo_simulation.ipynb
     - Simulation of a biased six-sided die (1000 x 2000 samples)
     - Histogram plot and comparison with normal distribution to demonstrate CLT
@@ -32,6 +33,8 @@ notebooks/
     - Maximum Likelihood Estimation (MLE) for normal, exponential and beta distributions
     - Goodness-of-fit assessment using Kolmogorov–Smirnov tests
     - Sensitivity analysis via Pearson correlation and scatter plots
+
+Optimisation:
 - optimisation_1.ipynb
     - Introduction to optimisation theory and problem formulation
     - Analytical optimisation via symbolic differentiation and root finding
