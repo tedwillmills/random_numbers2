@@ -40,6 +40,12 @@ notebooks/
     - Constrained vs unconstrained optimisation
     - Numerical comparison of convergence behaviour and iteration counts
     - Visualisation of objective function and identified minimum
+- optimisation_2.ipynb
+    - Heuristic and metaheuristic optimisation methods
+    - Visualisation of a non-convex, multi-modal objective function
+    - Implementation of Particle Swarm Optimisation (PSO) for global minimisation
+    - Constraint handling using a quadratic penalty method
+    - Comparison with a Genetic Algorithm (GA) approach
 
 scripts/
 
