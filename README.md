@@ -15,6 +15,7 @@ figures/
 - numerical_recipes_LCG_scatter.png
 
 notebooks/
+
 Monte Carlo and Random Numbers:
 - monte_carlo_simulation.ipynb
     - Simulation of a biased six-sided die (1000 x 2000 samples)
